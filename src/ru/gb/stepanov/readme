@@ -1,0 +1,2 @@
+﻿ javac -sourcepath ./src/ru/gb/stepanov -d /ourclasses ./src/ru/gb/stepanov/Main.java -encoding utf-8
+ java -cp .\ourclasses\ ru.gb.stepanov.Main
